@@ -10,4 +10,4 @@ TUTORIAL DE UTILIZAÇÃO:
 -Abra a pasta "isaac";
 -Execute o arquivo "isaac.pro";
 -Execute o projeto;
-![alt text](https://ibb.co/cLQKn1v)
+(https://i.ibb.co/DpQP2tb/Sem-t-tulo.png)
