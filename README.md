@@ -7,7 +7,13 @@ Em seguida, faça o download da pasta html (no canto superior esquerdo do Google
 TUTORIAL DE UTILIZAÇÃO:
 
 -Realize o clone ou download ZIP (e extrair);</br>
--Abra a pasta "isaac";
--Execute o arquivo "isaac.pro";
--Execute o projeto;
+-Abra a pasta "isaac";</br>
+-Execute o arquivo "isaac.pro";</br>
+-Execute o projeto;</br>
+-As barras deslizáveis no retângulo Azul servem para definir o parâmetro de cada forma;
+-Deslize-as e ajuste conforme seu desejo;</br>
+-Os botões dentro do retângulo vermelho servem para selecionar a forma desejada para a inserção;</br>
+-No retângulo verde, há os botões responsáveis por selecionar o plano 2D desejado;</br>
+-Após o plano ser selecionado, a barra deslizável no retângulo amarelo é responsável por "caminhar" dos planos;</br>
+-A inserção da forma escolhida é realizada em forma de clique esquerdo do mouse dentro da área demarcada pelo retângulo preto;</br>
 ![eae](https://i.ibb.co/DpQP2tb/Sem-t-tulo.png)
