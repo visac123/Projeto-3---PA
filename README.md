@@ -6,7 +6,7 @@ Em seguida, faça o download da pasta html (no canto superior esquerdo do Google
 
 TUTORIAL DE UTILIZAÇÃO:
 
--Realize o clone ou download ZIP (e extrair);
+-Realize o clone ou download ZIP (e extrair);</br>
 -Abra a pasta "isaac";
 -Execute o arquivo "isaac.pro";
 -Execute o projeto;
